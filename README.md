@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @igor0sipov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- JavaScript
+- TypeScript
+- CSS
+- HTML
+- React
+- Vue
+- Node.js
+- Express
+- mongoDB
+- GraphQL
+- Webpack
+- git
 
 <!---
 igor0sipov/igor0sipov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
