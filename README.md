@@ -4,11 +4,11 @@
 
 ## :gear: Используемые технологии:
 
-**JavaScript, TypeScript, CSS, HTML, React, Vue, Node.js, Express, socket.io, mongoDB, GraphQL, Webpack, git**
+_JavaScript, TypeScript, CSS, HTML, React, Vue, Node.js, Express, socket.io, mongoDB, GraphQL, Webpack, git_
 
 ## :seedling: Сейчас изучаю
 
-**Vue, TypeScript, GraphQL**
+_Vue, TypeScript, GraphQL_
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
