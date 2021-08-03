@@ -1,10 +1,10 @@
 # :wave: Привет! Я Игорь!
 
 Я начинающий веб-разработчик.
-```bash
+
 telegram: @ig0rosipov
 email: igor.osipov741@gmail.com
-```
+
 
 ## :gear: Используемые технологии:
 
