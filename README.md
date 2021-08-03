@@ -4,10 +4,9 @@
 
 В планах на ближайшее будущее ─ изучать новые для себя технологии. Хочется попробовать разные инструменты чтобы определиться более конкретно со своим стеком, имея более широкий выбор.
 
-telegram: @ig0rosipov
+**telegram:** @ig0rosipov
 
-email: igor.osipov741@gmail.com
-
+**email:** igor.osipov741@gmail.com
 
 ## :gear: Используемые технологии:
 
@@ -16,6 +15,10 @@ _JavaScript, TypeScript, CSS, HTML, React, Vue, Node.js, Express, socket.io, mon
 ## :seedling: Сейчас изучаю
 
 _Vue, TypeScript, GraphQL_
+
+## :thought_balloon: Планы на ближайшее будущее
+
+_SCSS, Redux, VueX, Nuxt.js_
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
