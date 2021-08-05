@@ -4,10 +4,6 @@
 
 В планах на ближайшее будущее ─ изучать новые для себя технологии. Хочется попробовать разные инструменты чтобы определиться более конкретно со своим стеком, имея более широкий выбор.
 
-**telegram:** @ig0rosipov
-
-**email:** igor.osipov741@gmail.com
-
 ## :gear: Используемые технологии:
 
 _JavaScript, TypeScript, CSS, HTML, React, Vue, Node.js, Express, socket.io, mongoDB, GraphQL, Webpack, git_
