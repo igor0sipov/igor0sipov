@@ -12,7 +12,7 @@ _JavaScript, TypeScript, CSS, HTML, React, Vue, Node.js, Express, socket.io, mon
 
 _Vue, TypeScript, GraphQL_
 
-## :thought_balloon: Планы на ближайшее будущее 
+## :thought_balloon: Планы на ближайшее будущее
 
 _SCSS, Redux, VueX, Nuxt.js_
 
